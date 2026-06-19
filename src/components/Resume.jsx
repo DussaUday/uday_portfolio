@@ -188,19 +188,19 @@ const Resume = () => {
                         <span className="dot-separator">•</span>
                         <div className="resume-contact-item">
                           <Github size={12} className="resume-icon" />
-                          <a href="https://github.com/DussaUday" target="_blank" rel="noopener noreferrer">github.com/DussaUday</a>
+                          <a href="https://github.com/DussaUday" target="_blank" rel="noopener noreferrer">https://github.com/DussaUday</a>
                         </div>
                       </div>
                       
                       <div className="resume-header-links-row" style={{ marginTop: '0.25rem' }}>
                         <div className="resume-contact-item">
                           <Linkedin size={12} className="resume-icon" />
-                          <a href="https://linkedin.com/in/udaydussa469" target="_blank" rel="noopener noreferrer">linkedin.com/in/udaydussa469</a>
+                          <a href="https://linkedin.com/in/udaydussa469" target="_blank" rel="noopener noreferrer">https://linkedin.com/in/udaydussa469</a>
                         </div>
                         <span className="dot-separator">•</span>
                         <div className="resume-contact-item">
                           <Globe size={12} className="resume-icon" />
-                          <a href="https://uday469.vercel.app" target="_blank" rel="noopener noreferrer">uday469.vercel.app</a>
+                          <a href="https://uday-portfolio-puce.vercel.app" target="_blank" rel="noopener noreferrer">https://uday-portfolio-puce.vercel.app/</a>
                         </div>
                         <span className="dot-separator">•</span>
                         <div className="resume-contact-item">
